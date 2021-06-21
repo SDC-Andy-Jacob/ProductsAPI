@@ -1,0 +1,20 @@
+{
+  "name": "ProductsAPI",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"nice it worked\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SDC-Andy-Jacob/ProductsAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SDC-Andy-Jacob/ProductsAPI/issues"
+  },
+  "homepage": "https://github.com/SDC-Andy-Jacob/ProductsAPI#readme"
+}
